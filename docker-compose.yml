@@ -26,5 +26,3 @@ services:
       - POSTGRES_DB=app
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=pass123
-
-  - postgresql
